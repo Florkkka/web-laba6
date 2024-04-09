@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #white;
+    color: white;
     background-color: #f8f9fa;
 }
 
@@ -50,7 +50,7 @@ h2, h3 {
 }
 
 p {
-    color: #white;
+    color: red;
 }
 
 .img-fluid {
